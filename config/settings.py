@@ -1,2 +1,2 @@
-API_KEY = "TRK1X-YZ23A-BC45D-EF67G-HI89J"
+API_KEY = "REDACTED"
 FLAG = "Hnx4{y0u_tr4ck3d_the_s3c5et}"
